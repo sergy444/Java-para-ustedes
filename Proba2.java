@@ -1,5 +1,4 @@
-https://github.com/sergy444/Proba
-
+// mi primer código en este módulo man 
 import java.util.Scanner;
 public class Proba2 {
 public static void main (String args []){
